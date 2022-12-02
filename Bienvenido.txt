@@ -1,0 +1,11 @@
+En este pequeño curso practico aprenderas las bases y fundamentos mas basicos del lenguaje de programacion Javascript, mediante ejemplos con codigo comentado para reforzar y practicar tu conocimiento.
+
+Espero sea útil para tí en este tu camino como futuro Desarrollador Front-end, te deseo mucho éxito...
+
+
+
+
+Adrian Otz. 
+Github :
+
+https://github.com/AdrianOtz
